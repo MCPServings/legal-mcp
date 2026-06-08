@@ -1,14 +1,14 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.legal-mcp/legal-mcp",
+  "name": "io.github.MCPServings/legal-mcp",
   "title": "US Legal Research (CourtListener)",
   "description": "Search 9M+ US federal and state court opinions, read full opinion text, resolve citations, and map citation networks — free public case law via MCP.",
   "repository": {
-    "url": "https://github.com/legal-mcp/legal-mcp",
+    "url": "https://github.com/MCPServings/legal-mcp",
     "source": "github"
   },
   "version": "0.1.0",
-  "websiteUrl": "https://github.com/legal-mcp/legal-mcp",
+  "websiteUrl": "https://github.com/MCPServings/legal-mcp",
   "remotes": [
     {
       "type": "streamable-http",
