@@ -2,6 +2,9 @@
 name = "legal-mcp"
 version = "0.1.0"
 description = "Remotely callable MCP server for US legal research (CourtListener baseline)."
+readme = "README.md"
+license = { text = "MIT" }
+authors = [{ name = "MCPServings" }]
 requires-python = ">=3.10"
 dependencies = [
     "mcp>=1.27.0",

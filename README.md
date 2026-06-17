@@ -77,3 +77,9 @@ Anonymous access already allows search and document fetch (rate-limited). Set
    for.
 5. Freshness pipeline — incremental watermark crawl + embeddings (slow data:
    ~hundreds of new docs/day, &lt;10 min GPU/day).
+
+---
+
+## License
+
+MIT © MCPServings. See [LICENSE](LICENSE).
